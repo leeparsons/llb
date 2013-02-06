@@ -1,0 +1,11 @@
+/*
+article.twit-feed ol.commentlist {width:538px;margin:auto;display:block;text-align:left}
+article.twit-feed .commentlist li {width:536px;}
+.cycle-next, .cycle-prev {position:absolute;width:32px;height:30px;visibility:hidden;background:url(/images/cycle-nav.png) no-repeat 0 0;cursor:pointer;z-index:900;}
+.cycle-next {background-position:-30px center;right:0}
+.cycle-next:hover {background-position:0px center}
+.cycle-prev {background-position:-90px center}
+.cycle-prev:hover {background-position:-60px center}
+*/
+.fb-connect {background:url(/images/fb-connect.png) no-repeat 0 0;float:left;margin:1px 0 0 8px;height:18px;width:135px;}
+#filter-select {text-transform:capitalize}

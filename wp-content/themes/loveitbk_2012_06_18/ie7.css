@@ -1,0 +1,17 @@
+p.meta {width:100%}
+h2.entry-title {margin-bottom:10px;}
+.go-home {margin-bottom:25px;float:right;}
+.searchform .submit {text-transform: capitalize;}
+.menu {z-index:100;}
+.menu ul {z-index:200 !important}
+.menu ul li  {padding-right:20px;word-wrap:normal;}
+.sub-menu > li {z-index:100 !important}
+.sub-menu ul li {z-index:300 !important}
+header {z-index:45}
+a:hover, footer a:hover, .col1 .wpcf7-form input[type="submit"]:hover, #commentform input[type="submit"]:hover, .archives a:hover, .more:hover, .leave-comment a:hover, .fb-notes-count a:hover, .prev-link:hover, .next-link:hover, h2.search-entry-title a:hover, a.lnk:hover, .menu a:hover {filter:alpha(opacity=75);}
+ .inactive:hover .img {filter:alpha(opacity=50) !important;}
+.latest-posts a:hover img {filter:alpha(opacity=45) !important;}
+.go-home a:hover {filter:alpha(opacity=84) !important;}
+footer ul ul {margin-left:10px;}
+.home-heros {margin-top:20px;}
+a.attachment:hover img {filter:alpha(opacity=75) !important;}

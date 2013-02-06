@@ -1,0 +1,5 @@
+a:hover, footer a:hover, .col1 .wpcf7-form input[type="submit"]:hover, #commentform input[type="submit"]:hover, .archives a:hover, .more:hover, .leave-comment a:hover, .fb-notes-count a:hover, .prev-link:hover, .next-link:hover, h2.search-entry-title a:hover, a.lnk:hover, .menu a:hover {-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)" !important;}
+ .inactive:hover .img {-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";}
+.latest-posts a:hover img {-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=45)";}
+.go-home a:hover {-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=84)";}
+a.attachment:hover img {-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";}
